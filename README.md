@@ -1,4 +1,4 @@
-### Hi My Name Okky 👋
+### Hi My Name is Okky 👋
 
 <!--
 **okky2112/okky2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
